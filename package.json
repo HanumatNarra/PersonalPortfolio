@@ -38,7 +38,7 @@
   "node-ipc@11": "npm:@achrinza/node-ipc@10",
   "node-ipc@10": "npm:@achrinza/node-ipc@10",
   "node-ipc@9": "npm:@achrinza/node-ipc@9"
-}
+},
   "engines": {
       "node": "18.x"
     },
