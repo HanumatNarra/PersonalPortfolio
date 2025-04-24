@@ -40,7 +40,7 @@
   "node-ipc@9": "npm:@achrinza/node-ipc@9"
 },
   "engines": {
-      "node": "18.x"
+      "node": "16.x"
     },
   "keywords": [],
   "description": ""
