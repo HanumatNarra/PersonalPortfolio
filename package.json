@@ -35,7 +35,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "engines": {
-      "node": "16.x"
+      "node": "18.x"
     },
   "keywords": [],
   "description": ""
