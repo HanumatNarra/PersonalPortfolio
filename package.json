@@ -34,13 +34,11 @@
     "eslint-plugin-vue": "^6.2.2",
     "vue-template-compiler": "^2.6.11"
   },
-  "overrides": {
-  "node-ipc@11": "npm:@achrinza/node-ipc@10",
-  "node-ipc@10": "npm:@achrinza/node-ipc@10",
-  "node-ipc@9": "npm:@achrinza/node-ipc@9"
+  "resolutions": {
+  "@achrinza/node-ipc": "^10.1.0"
 },
   "engines": {
-      "node": "16.x"
+      "node": "18.x"
     },
   "keywords": [],
   "description": ""
