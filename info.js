@@ -9,41 +9,38 @@ let info = {
     }
   },
   description:
-    "A second year Computer Science graduate student at Indiana University Bloomington with an interest in Software Development, UX Design and Artificial Intelligence - and seeking exciting opportunities related to the same.<br><br>I am a detail oriented person and I keep my goals and tasks organized to maintain productivity. I would bring to table a wide range of software skills, ranging from design and development to writing scripts for intelligent agents. I believe that the skills that I have attained from the dynamic environment and competitive university life define me, and I am looking forward to implementing and polishing them in any opportunity that I receive. ",
+    "Motivated and detail-oriented Software Engineer with over 3 years of experience delivering with various tools and technologies in both startup and enterprise environments. Proficient in React, Node.js, Java, and Pega, with a strong foundation in Agile methodologies and performance optimization.Recognized for excellence at Infosys and Truviq Systems, bringing a collaborative spirit, strong ownership, and mentoring skills. Passionate about creating impactful, user-centric applications and continuously growing through innovation and teamwork.  Looking to join a dynamic team as a software engineer, contribute my expertise, knowledge, skills, traits, and experience to make a meaningful impact in the world.",
   links: {
-    linkedin: "https://www.linkedin.com/in/hrishikeshpaul/",
-    github: "https://github.com/hrishikeshpaul",
-    angellist: "https://angel.co/u/hrishikesh-paul",
+    linkedin: "https://www.linkedin.com/in/narra-hanumat-sai/",
+    // github: "https://github.com/hrishikeshpaul",
+    // angellist: "https://angel.co/u/hrishikesh-paul",
     resume:
       "https://github.com/hrishikeshpaul/portfolio-template/blob/master/src/assets/pdfs/Resume.pdf"
   },
   education: [
     {
-      name: "Indiana University Bloomington",
+      name: "University of North Texas",
       place: "USA",
-      date: "Aug, 2019 - May, 2021",
+      date: "Jan, 2023 - May, 2024",
       degree: "Masters in Computer Science",
-      gpa: "3.7/4.0",
+      gpa: "3.6/4.0",
       description:
-        "Currently pursuing my Master's in Computer Science, while specializing in the field of Artificial Intelligence and Machine Learning.",
+        "Graduated from University of North Texas with a Masters degree in Computer Science",
       skills: [
-        "Artificial Intelligence",
+        // "Artificial Intelligence",
         "Software Engineering",
         "Algorithms",
-        "Computer Vision",
-        "Music Data Mining",
-        ,
         "OS"
       ]
     },
     {
-      name: "Manipal Institute of Technology",
+      name: "K L University",
       place: "India",
-      date: "Aug, 2015 - July, 2019",
+      date: "July, 2015 - July, 2019",
       degree: "Bachelors in Computer and Communication",
       gpa: "8.0/10.0",
       description:
-        "Graduated from Manipal Institute of Technology, Manipal with a bachelors degree in Computer and Communications Engineering.",
+        "Graduated from K L University,India with a bachelors degree in Electronics and Communication Engineering.",
       skills: [
         "AI",
         "Neural Netwroks",
@@ -57,49 +54,31 @@ let info = {
   ],
   experience: [
     {
-      name: "Cyberinfrastructure for Network Science Center",
-      place: "Bloomington, Indiana",
-      date: "Jun, 2020 - Present",
-      position: "Research Assistant; Full Stack Developer",
+      name: "Leading Edge Technologies",
+      place: "MN, USA",
+      date: "October 2024 - Present",
+      position: "Software Engineer",
       description:
-        "Worked as a Software Developer for the Human BioMolecular Atlas Program (funded by the NIH), building innovative visualization tools to envision large biomedical datasets.",
-      skills: ["Angular", "Node.js", "Vega", "Shell", "Typescript"]
+        "Developed a responsive, web-based Customer Support Dashboard to enhance client support workflows and engagement",
+      skills: ["React", "Bootstrap", "NodeJS", "HTML", "CSS", "Typescript", "Figma", "GitHub Actions" ]
     },
     {
-      name: "Skylark Drones",
-      place: "Bangalore, India",
-      date: "Jan, 2019 - Jun, 2021",
-      position: "Full Stack Web Developer",
+      name: "Truviq Systems",
+      place: "Hyderabad, India",
+      date: "January 2022 - January 2023",
+      position: "Consultant",
       description:
-        "Worked as a full stack web developer, implementing various features and fixing bugs for Skylark Drones’ central management system called Operations Portal and Data Mining Server.",
-      skills: ["MongoDB", "Flask", "VueJS", "NGINX"]
+        "Contributed to the development of an insurance case management system supporting key product lines and enabling seamless integration across multiple internal systems",
+      skills: ["Pega", "HTML", "CSS", "Java", "JavaScript", "PostgreSQL", "JIRA", "Swagger", "Postman"]
     },
     {
-      name: "Hridayam Soft Solutions",
-      place: "Mumbai, India",
-      date: "May, 2018 - Jun, 2018",
-      position: "Computer Vision Engineer",
+      name: "Infosys ltd",
+      place: "Hyderabad, India",
+      date: "July 2019 - Dec 2021",
+      position: "Associate Consultant",
       description:
-        "Scripted an algorithm for extracting information (such as date, invoice number etc.) from scanned images of invoices, built a web interface for using the former mentioned machine.",
-      skills: ["Python", "OpenCV", "PyTesseract", "AngularJS", "NodeJS"]
-    },
-    {
-      name: "Elementail Labs",
-      place: "Mumbai, India",
-      date: "May, 2017 - July, 2017",
-      position: "Full Stack Web Developer",
-      description:
-        "Implemented various contracts and deployed them on the upcoming blockchain technology - Ethereum, while also working as a MEAN stack web developer for Elemential Labs’ website.",
-      skills: ["MongoDB", "AngularJS", "NodeJS", "ExpressJS"]
-    },
-    {
-      name: "Viteos Capital Market Services s",
-      place: "Mumbai, India",
-      date: "May, 2016 - July, 2016",
-      position: "Software Developer",
-      description:
-        "Evaluated technologies, and building proof of concept/prototype solutions for trade processing and mathematical model based evaluations, while working in the software development team.",
-      skills: ["C#", "C++", "Visual Studio"]
+        "Developed and supported a Master Customer Order Management system application which acts as a central orchestrator for coordinating cross-platform telecom orders across multiple market segments",
+      skills: ["Pega", "HTML", "CSS", "Java", "JavaScript", "PostgreSQL", "JIRA", "Swagger", "Postman","HP ALM/QC", "Confluence"]
     }
   ],
   skills: [
@@ -111,35 +90,19 @@ let info = {
         "TypeScript",
         "Java",
         "C",
-        "C++",
         "SQL",
-        "NoSQL",
-        "Ruby"
+        "NoSQL"
       ],
       icon: "fa fa-code"
     },
     {
-      title: "data frameworks",
-      info: [
-        "Keras",
-        "Numpy",
-        "Pandas",
-        "OpenCV",
-        "SciPy",
-        "Sklearn",
-        "LibROSA",
-        "Pillow"
-      ],
-      icon: "fa fa-cubes"
-    },
-    {
       title: "web technologies",
-      info: ["Vue", "Angular", "React", "Node", "Flask", "HTML", "CSS"],
+      info: ["React", "Redux", "Node", "Flask", "Bootstrap", "HTML", "CSS", "SCSS", "Figma"],
       icon: "fas fa-laptop-code"
     },
     {
       title: "databases",
-      info: ["MongoDB", "MySQL", "OracleSQL", "Neo4j"],
+      info: ["MongoDB", "MySQL", "OracleSQL","PostgreSQL"],
       icon: "fa fa-database"
     },
     {
@@ -149,11 +112,10 @@ let info = {
         "Ubuntu",
         "Windows",
         "Android",
+        "Git",
         "Agile",
         "Scrum",
         "JIRA",
-        "Heroku",
-        "Firebase",
         "AWS S3"
       ],
       icon: "fas fa-tools"
